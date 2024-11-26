@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Cloud-Sure's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cloud-Sure&show_icons=true&theme=transparent)
 
 
 <!--
